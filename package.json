@@ -1,0 +1,10 @@
+{
+  "name" : "fathom-clevercloud",
+  "version" : "0.0.1",
+  "scripts" : {
+    "start" : "./bin/fathom server"
+  },
+  "engines": {
+    "node" : "^10"
+  }
+}
